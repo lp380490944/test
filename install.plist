@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>title</key>
-				<string>罗宾金服</string>
+				<string>TMAX</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>bundle-identifier</key>
-				<string>com.bluce.RobinHood</string>
+				<string>bluce.TMAX.com1</string>
 			</dict>
 		</dict>
 	</array>
